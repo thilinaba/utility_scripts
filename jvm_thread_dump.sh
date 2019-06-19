@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# https://github.com/thilinaba/utility_scripts
+
 JAVA_HOME="/opt/java"
 COUNT=5
 INTERVAL=5
