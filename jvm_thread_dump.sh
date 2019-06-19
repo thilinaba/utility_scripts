@@ -6,7 +6,7 @@ JAVA_HOME="/opt/java"
 COUNT=5
 INTERVAL=5
 
-PID=1234
+PID=$(cat /opt/wso2am-2.6.0/wso2carbon.pid)
 
 DUMP_LOCATION="/tmp"
 
