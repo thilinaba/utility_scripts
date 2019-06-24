@@ -10,6 +10,13 @@ PID=$(cat /opt/wso2am-2.6.0/wso2carbon.pid)
 
 DUMP_LOCATION="/tmp"
 
+echo "###################################"
+echo "PID $PID"
+echo "Count: $COUNT"
+echo "Interval(sec): $INTERVAL)"
+echo "Dump location: $DUMP_LOCATION"
+echo "###################################"
+
 for (( c=1; c<=$COUNT; c++ ))
 do
 echo "Taking thread dump $c ..."
