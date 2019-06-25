@@ -13,7 +13,7 @@ DUMP_LOCATION="/tmp"
 echo "###################################"
 echo "PID $PID"
 echo "Count: $COUNT"
-echo "Interval(sec): $INTERVAL)"
+echo "Interval(sec): $INTERVAL"
 echo "Dump location: $DUMP_LOCATION"
 echo "###################################"
 
