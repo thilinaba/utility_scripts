@@ -3,7 +3,7 @@
 # https://github.com/thilinaba/utility_scripts
 
 JAVA_HOME="/opt/java"
-PATH="$PATH:$JAVA_HOME/bin"
+PATH="$JAVA_HOME/bin:$PATH"
 COUNT=3
 INTERVAL=5
 
