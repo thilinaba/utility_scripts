@@ -4,8 +4,8 @@
 
 JAVA_HOME="/opt/java"
 PATH="$JAVA_HOME/bin:$PATH"
-COUNT=3
-INTERVAL=5
+COUNT=5
+INTERVAL=30
 
 PID=$(cat /opt/wso2am-2.6.0/wso2carbon.pid)
 
